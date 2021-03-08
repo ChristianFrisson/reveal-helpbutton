@@ -1,0 +1,27 @@
+{
+  "name": "reveal-helpbutton",
+  "version": "2.0.1",
+  "description": "A reveal.js 3.x / 4.x plugin to open the help screen by pressing a button. ",
+  "main": "helpbutton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McShelby/reveal-helpbutton.git"
+  },
+  "keywords": [
+    "reveal.js",
+    "slides"
+  ],
+  "author": "Sören Weber",
+  "contributors": [
+    "Sören Weber",
+    "Christian Frisson"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/McShelby/reveal-helpbutton/issues"
+  },
+  "homepage": "https://github.com/McShelby/reveal-helpbutton#readme"
+}
